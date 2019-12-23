@@ -1,4 +1,4 @@
-## Cookie Rama `Updated 12.5.2019`
+## Cookie Rama `Updated 12.23.2019` [VIDEO](https://youtu.be/Y5inw4O9CwE)
 
 This is a small and powerful app, that will guide you through dark waters of complicated decisions. Just with one touch you can ask a bit of advice and receive a message from a fortune cookie teller. A short but inspirational quote will make your day.      
 
@@ -24,10 +24,10 @@ This is a small and powerful app, that will guide you through dark waters of com
 ![Cookie Rama Greeting](Cookie_Rama_Greeting.png)
 ![Cookie Rama Quotes](Cookie_Rama_Quotes.png)
 
-1. Register as a new user. 
-2. Existing users log-in only with a username. 
-3. Every user can ask for a new fortune cookie quote, save it to favorites, update a list of favorites quotes, like any number times any number of quotes. 
+1. Register as a new user.
+2. Existing users log-in only with a username.
+3. Every user can ask for a new fortune cookie quote, save it to favorites, update a list of favorites quotes, like any number times any number of quotes.
 
 ### `Thanks`
 
-Thank you [Annie Souza](https://github.com/luanesouza), [Randy Herasme](https://github.com/randyher) and [Graham Troyer-Joy](https://github.com/telegraham) for support, professionalism, and patience. Thank you for seeing me and every student as a partner in learning and sharing. 
+Thank you [Annie Souza](https://github.com/luanesouza), [Randy Herasme](https://github.com/randyher) and [Graham Troyer-Joy](https://github.com/telegraham) for support, professionalism, and patience. Thank you for seeing me and every student as a partner in learning and sharing.
